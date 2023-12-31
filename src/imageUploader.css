@@ -1,0 +1,21 @@
+.imageUpload{
+    background-color: white;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    
+
+   
+}
+
+.imageUpload__progress{
+    width: 100%;
+}
+
+.imageWidth{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+   
+}

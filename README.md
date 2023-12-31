@@ -1,3 +1,6 @@
+# Instagram Clone Project
+## Dev. Tools:
+### ReactJS | Material UI | Firebase DB
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
